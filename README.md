@@ -12,7 +12,7 @@ Some updates from the orginal project include:
 
 - **Updated Tweet Map**: Tweets are plotted on an interactive map with color coding by airline. The tooltips display the sentiment type and tweet content, making it easy to understand user sentiment in different regions.
 
-### Visualizations:
+#### Visualizations:
 
 - **Sentiment Distribution**: Donut chart and histogram to visualize the sentiment breakdown of tweets.
 
