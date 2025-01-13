@@ -6,13 +6,12 @@ This project is based on the Coursera course ["Create Interactive Dashboards wit
 
 Some updates from the orginal project include:
 
-**Sentiment Trend Over Time**: A dynamic line chart showing how sentiment trends over time for all tweets or filtered by airline.
+-**Sentiment Trend Over Time**: A dynamic line chart showing how sentiment trends over time for all tweets or filtered by airline.
 
-**Reasons for Negative Tweets by Airline**: A pivot table displaying the top reasons for negative tweets by airline, along with a stacked bar chart showing the reasons for each airline. This helps identify patterns in customer complaints.
+-**Reasons for Negative Tweets by Airline**: A pivot table displaying the top reasons for negative tweets by airline, along with a stacked bar chart showing the reasons for each airline. This helps identify patterns in customer complaints.
 
-**Updated Tweet Map**: Tweets are plotted on an interactive map with color coding by airline. The tooltips display the sentiment type and tweet content, making it easy to understand user sentiment in different regions.
+-**Updated Tweet Map**: Tweets are plotted on an interactive map with color coding by airline. The tooltips display the sentiment type and tweet content, making it easy to understand user sentiment in different regions.
 
 ### Visualizations:
 
-**Sentiment Distribution**: Pie chart and histogram to visualize the sentiment breakdown of tweets.
-Word Cloud: A word cloud for each sentiment type, visualizing common words in positive, neutral, and negative tweets.
+-**Sentiment Distribution**: Donut chart and histogram to visualize the sentiment breakdown of tweets.
