@@ -9,8 +9,9 @@ Some updates from the orginal project include:
 - **Sentiment Trend Over Time**: A dynamic line chart showing how sentiment trends over time for all tweets or filtered by airline.
  ![Trend Over Time](image/lineovertime.png)
 - **Reasons for Negative Tweets by Airline**: A pivot table displaying the top reasons for negative tweets by airline, along with a stacked bar chart showing the reasons for each airline. This helps identify patterns in customer complaints.
-
+![Negative Tweets](image/stackedbar.png)
 - **Updated Tweet Map**: Tweets are plotted on an interactive map with color coding by airline. The tooltips display the sentiment type and tweet content, making it easy to understand user sentiment in different regions.
+![Tweet Map](image/stackedbar.png)
 
 #### Visualizations:
 
