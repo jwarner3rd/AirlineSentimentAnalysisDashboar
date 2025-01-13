@@ -1,4 +1,5 @@
-#Airline Sentiment Analysis Dashboard
+# Airline Sentiment Analysis Dashboard
+
 This project is based on the Coursera course ["Create Interactive Dashboards with Streamlit and Python"](https://www.coursera.org/projects/interactive-dashboards-streamlit-python) by instructor Snehan Kekre.. It provides an interactive dashboard for analyzing sentiment in tweets about US airlines. The dashboard visualizes various insights, including sentiment distribution, tweet locations, and reasons behind negative sentiments.
 
 ## Updates From the Orginal Project
