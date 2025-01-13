@@ -1,0 +1,12 @@
+﻿negativereason,American,Delta,Southwest,US Airways,United,Virgin America,Total per Airline
+Bad Flight,87,64,90,104,216,19,580
+Can't Tell,198,186,159,246,379,22,1190
+Cancelled Flight,246,51,162,189,181,18,847
+Customer Service Issue,768,199,391,811,681,60,2910
+Damaged Luggage,12,11,14,11,22,4,74
+Flight Attendant Complaints,87,60,38,123,168,5,481
+Flight Booking Problems,130,44,61,122,144,28,529
+Late Flight,249,269,152,453,525,17,1665
+Lost Luggage,149,57,90,154,269,5,724
+longlines,34,14,29,50,48,3,178
+Total per Reason,1960,955,1186,2263,2633,181,9178
