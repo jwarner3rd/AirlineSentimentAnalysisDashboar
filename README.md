@@ -17,5 +17,5 @@ Some updates from the orginal project include:
 - **Sentiment Distribution**: Donut chart and histogram to visualize the sentiment breakdown of tweets.
 
 ## Dataset
-The dataset consists of tweets about US airlines and includes various columns such as sentiment, tweet text, tweet creation time, and more. The data is fetched directly from the GitHub repository folder ["Here"](("https://raw.githubusercontent.com/jwarner3rd/AirlineSentimentAnalysisDashboar/refs/heads/main/data/Tweets.csv")
+The dataset consists of tweets about US airlines and includes various columns such as sentiment, tweet text, tweet creation time, and more. The data is fetched directly from the GitHub repository folder [Here](https://github.com/jwarner3rd/AirlineSentimentAnalysisDashboard/tree/main/data)
 ).
