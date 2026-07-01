@@ -27,6 +27,15 @@ Some updates from the orginal project include:
 
 - The dataset consists of tweets about US airlines and includes various columns such as sentiment, tweet text, tweet creation time, and more. The data is fetched directly from the GitHub repository folder: [Here](https://github.com/jwarner3rd/AirlineSentimentAnalysisDashboard/tree/main/data)
 .
+- The app also supports compatible CSV uploads from the sidebar. It recognizes
+  common text, sentiment, timestamp, and airline column names, including
+  `text`, `tweet`, `tweet_text`, `airline_sentiment`, `sentiment`,
+  `predicted_sentiment`, `tweet_created`, `created_at`, `airline`, and
+  `carrier`.
+- Latitude and longitude are optional. If an uploaded CSV does not include
+  coordinates, the map panel shows a clear message while the sentiment charts
+  continue to work. This supports scored tweet exports from tools such as
+  [TweetClaw](https://github.com/Xquik-dev/tweetclaw).
 ---
 ## Contact
 For any questions or feedback, please contact:
@@ -34,4 +43,3 @@ For any questions or feedback, please contact:
 - **Email**: [john.warner.3rd@gmail.com](mailto:john.warner.3rd@gmail.com)
 - **GitHub**: [jwarner3rd](https://github.com/jwarner3rd)
 - **LinkedIn**: [www.linkedin.com/in/john-j-warner/](https://www.linkedin.com/in/john-j-warner/)
-
